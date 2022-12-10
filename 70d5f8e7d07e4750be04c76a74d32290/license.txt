@@ -1,0 +1,11 @@
+Model Information:
+* title:	チキンカツカレー
+* source:	https://sketchfab.com/3d-models/70d5f8e7d07e4750be04c76a74d32290
+* author:	seirogan (https://sketchfab.com/seirogan)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "チキンカツカレー" (https://sketchfab.com/3d-models/70d5f8e7d07e4750be04c76a74d32290) by seirogan (https://sketchfab.com/seirogan) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
